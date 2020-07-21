@@ -1,2 +1,2 @@
-# Research Paper
-This repository contains the source code for my research paper on "Crop Yield Prediction".
+# Research Project
+This repository contains the source code for my project "Crop Yield Prediction".
